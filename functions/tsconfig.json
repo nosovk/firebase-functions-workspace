@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext"],
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "allowSyntheticDefaultImports": true,
+    "outDir": "lib",
+    "sourceMap": true,
+    "strict": true,
+    "target": "ESNext",
+    "baseUrl": "./",
+    "skipLibCheck": true,
+  },
+  "compileOnSave": true,
+  "include": [
+    "src"
+  ]
+}
